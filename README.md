@@ -5,7 +5,7 @@ Instituição: UNINTER
 Tecnologia utilizada:
 - Java;
 
-O trabalho consiste em uma interação jogador vs computador com três niveis diferentes de jogadas que o computador iria realizar.
+O trabalho consiste em uma interação jogador vs computador com três niveis diferentes de jogadas que o computador irá realizar.
  
  Também era nescessário que ouvesse os resultados ao final da partida.
  Jogador venceu;
