@@ -8,8 +8,8 @@ Tecnologia utilizada:
 O trabalho consiste em uma interação jogador vs computador com três níveis diferentes de jogadas que o computador irá realizar.
  
  Os seguintes resultados devem aparecer ao final da partida após uma verificação.
- Você venceu;
- Computador venceu;
+ Você ganhou;
+ Computador ganhou;
  Empate;
 
 
